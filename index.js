@@ -16,7 +16,6 @@ const options = {
 const dateFormat = new Intl.DateTimeFormat(locale, options).format() //?
 dateFormat
 
-//================================================================
 const fibonacci = [1, 1, 2, 3, 5, 8]
 const nextFib = fibonacci.concat([13])
 nextFib
